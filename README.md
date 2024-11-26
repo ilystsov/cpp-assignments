@@ -5,4 +5,4 @@
 ## Список заданий
 1. [Задание 1: Мафия](https://github.com/ilystsov/mafia-game)
 2. [Задание 2: Алгоритм имитации отжига](https://github.com/ilystsov/simulated-annealing)
-3. ...
+3. [Задание 3: Функции](https://github.com/ilystsov/functions-library)
